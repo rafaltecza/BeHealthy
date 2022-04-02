@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Base application theme. -->
+    <style name="Theme.BeHealthy" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">#1E1D1D</item>
+        <item name="colorPrimaryDark">#1E1D1D</item>
+        <item name="colorAccent">#1E1D1D</item>
+
+        <item name="android:background">#1E1D1D</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+</resources>

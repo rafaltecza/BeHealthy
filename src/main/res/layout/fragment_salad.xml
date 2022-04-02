@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:background="#00FFFFFF"
+    tools:context=".ui.recipes.child.ChildFragment">
+
+
+    <TextView
+        android:id="@+id/recipe_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Składniki:\n200 g prawdziwej fety greckiej\n300 g świeżych, mięsistych pomidorów\n30 g czerwonej cebuli - lub trochę więcej\n100 g oliwek ciemnych np. Kalamata - waga bez pestek/n150 g świeżych ogórków gruntowych lub szklarniowych\npół niedużej zielonej papryki - około 100 g (można pominąć)\n4 łyżki oliwy z oliwek extra vergine - 40 g\nprzyprawy: łyżeczka suszonego oregano, odrobina świeżo mielonego pieprzu i ewentualnie sól\newentualne dodatki: sałata lodowa lub rukola; kapary lub anchois"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

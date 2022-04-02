@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BeHealthy</string>
+    <string name="title_home">Home</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="unit">Cm</string>
+    <string name="height">Wzrost</string>
+    <string name="startingheight">170</string>
+    <string name="startingweight">60</string>
+    <string name="startingage">30</string>
+    <string name="calculate_calories">Sprawdź kalorie</string>
+    <string name="calculate_your_bmi">Sprawdź swoje BMI</string>
+    <string name="recipe_1">Ciasto dyniowe</string>
+    <string name="recipe_2">Sałatka grecka</string>
+    <string name="weight">Waga</string>
+    <string name="age">Wiek</string>
+    <string name="title_activity_task_main">TaskMainActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_calories">Calories</string>
+    <string name="recipe_title_1">Sałatka</string>
+    <string name="recipe_title_2">Ciasto dyniowe</string>
+    <string name="recipe_content_1">Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsuma</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

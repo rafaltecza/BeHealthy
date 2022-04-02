@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:background="#00FFFFFF"
+    tools:context=".ui.recipes.child.ChildFragment">
+
+
+    <TextView
+        android:id="@+id/recipe_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="SKŁADNIKI  / 20 PORCJI \n250 g PUREE Z PIECZONEJ DYNI \n200 g masła \n1 szklanka cukru\n1 opakowanie cukru wanilinowego\nskórka starta z 1 pomarańczy lub 2 mandarynek\n3 jajka,\noddzielnie żółtka od białek 225 g mąki pszennej\n1 łyżeczka proszku do pieczenia\n1 łyżeczka sody oczyszczonej"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
